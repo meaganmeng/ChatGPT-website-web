@@ -1,2 +1,2 @@
-# ChatGPT-website-web
+# chatgpt-website-web
 test
